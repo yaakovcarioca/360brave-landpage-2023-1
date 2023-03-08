@@ -1,0 +1,23 @@
+{
+  "name": "360brave-landpage-2023-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dougdbp/360brave-landpage-2023-1.git"
+  },
+  "keywords": [],
+  "author": "Douglas B P. @bulldog.dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dougdbp/360brave-landpage-2023-1/issues"
+  },
+  "homepage": "https://github.com/dougdbp/360brave-landpage-2023-1#readme",
+  "dependencies": {
+    "node": "^19.6.1"
+  }
+}
